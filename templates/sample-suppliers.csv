@@ -1,0 +1,5 @@
+supplier,bp_grouping,name,street,postal_code,city,country,vat_number,company_code,recon_account,payment_terms,purch_org,order_currency,incoterms,gr_based_iv
+100001,BPVN,Example Steel GmbH,Hauptstrasse 1,10115,Berlin,DE,DE000000001,1000,160000,0001,1000,EUR,FCA,X
+100002,BPVN,Sample Fasteners AG,Industrieweg 5,70173,Stuttgart,DE,DE000000002,1000,160000,0002,1000,EUR,DAP,X
+100003,BPVN,Demo Packaging BV,Havenstraat 12,1011AB,Amsterdam,NL,NL000000003B01,1000,160000,0001,1000,EUR,DAP,
+100004,BPVN,Test Bearings SRL,Via Roma 8,20121,Milano,IT,IT00000000004,1000,160000,0003,1000,EUR,FCA,X
