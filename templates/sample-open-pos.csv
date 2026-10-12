@@ -1,0 +1,5 @@
+legacy_po,legacy_item,doc_type,supplier,purch_org,purch_group,company_code,item_category,acct_assignment,product,plant,storage_location,open_qty,uom,net_price,price_unit,currency,delivery_date,note
+4500012345,10,NB,100001,1000,001,1000,,,RM-100,1100,0001,500,KG,10.50,1,EUR,2026-11-15,ordered 1000 - 500 already received in ECC
+4500012345,20,NB,100001,1000,001,1000,,,RM-101,1100,0001,200,M,6.20,1,EUR,2026-11-15,
+4500012399,10,NB,100002,1000,002,1000,,,RM-205,1100,0001,5000,PC,11.50,100,EUR,2026-11-20,
+4500012410,10,NB,100004,1000,002,1000,,K,SP-300,1100,,12,PC,4.75,1,EUR,2026-11-30,cost center 4100 - consumption
