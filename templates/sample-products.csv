@@ -1,0 +1,6 @@
+product,product_type,description,base_uom,material_group,plant,storage_location,purchasing_group,mrp_type,planned_delivery_days,valuation_class,price_control,price,currency
+RM-100,ROH,Steel sheet 2mm,KG,M001,1100,0001,001,PD,10,3000,S,10.00,EUR
+RM-101,ROH,Aluminium bar 20mm,M,M001,1100,0001,001,PD,14,3000,S,6.40,EUR
+RM-205,ROH,Hex bolt M8x40,PC,M002,1100,0001,002,VB,5,3000,V,0.12,EUR
+PK-010,VERP,Carton box 40x30x20,PC,M005,1100,0002,003,VB,7,3050,V,0.85,EUR
+SP-300,ERSA,Bearing 6204,PC,M007,1100,0003,002,PD,21,3040,V,4.90,EUR
