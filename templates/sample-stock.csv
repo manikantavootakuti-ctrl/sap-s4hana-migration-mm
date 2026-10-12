@@ -1,0 +1,8 @@
+product,plant,storage_location,batch,stock_type,quantity,uom,value,currency
+RM-100,1100,0001,,unrestricted,1250,KG,12500.00,EUR
+RM-101,1100,0001,,unrestricted,640,M,4096.00,EUR
+RM-205,1100,0001,,unrestricted,18000,PC,2160.00,EUR
+RM-205,1100,0001,,quality inspection,2000,PC,240.00,EUR
+PK-010,1100,0002,,unrestricted,3200,PC,2720.00,EUR
+SP-300,1100,0003,,unrestricted,85,PC,416.50,EUR
+SP-300,1100,0003,,blocked,4,PC,19.60,EUR
