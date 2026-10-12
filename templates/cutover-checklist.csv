@@ -1,0 +1,26 @@
+step,task,system,owner,timing,check / evidence
+1,Final supplier and material cleansing round,ECC,MM master data,T-4 weeks,cleansing report signed off
+2,Close old open POs that won't be delivered,ECC,Purchasing,T-3 weeks,ME2N list before/after
+3,GR/IR clean-up with MR11,ECC,MM + FI,T-2 weeks,GR/IR balance report
+4,Mock cutover / dress rehearsal,both,Cutover lead,T-2 weeks,timings and issues log
+5,Communicate freeze window to buyers and warehouse,-,Project lead,T-1 week,email sent
+6,Stop new PRs and POs,ECC,Purchasing,T-3 days,
+7,Post last goods movements,ECC,Warehouse,T-2 days,
+8,Post or hold remaining invoices,ECC,AP,T-2 days,
+9,Stock count / confirm stock,ECC,Warehouse,T-2 days,count sheets
+10,Close MM period (MMPV),ECC,MM,T-1 day,
+11,Extract stock baseline (MB52 / MB5L),ECC,MM,T-1 day,file saved
+12,Extract open PO baseline (ME2N),ECC,MM,T-1 day,file saved
+13,Extract GR/IR balance,ECC,FI,T-1 day,file saved
+14,Load suppliers,S/4,Data migration,Day 0,count matches
+15,Load products,S/4,Data migration,Day 0,count matches
+16,Load info records and source lists,S/4,Data migration,Day 0,count matches
+17,Load contracts / scheduling agreements,S/4,Data migration,Day 0,count matches
+18,Load open POs,S/4,Data migration,Day 1,count and open value match
+19,Load stock balances,S/4,Data migration,Day 1,qty and value per plant/sloc match
+20,Reconcile migration clearing account,S/4,FI,Day 1,balance = 0 or explained
+21,Test GR and invoice (then reverse),S/4,MM,Day 1,document numbers
+22,Check PO output prints / emails,S/4,MM,Day 1,
+23,Business sign-off on reconciliation,-,Key users,Day 1,signed
+24,Go / no-go,-,Steering,Day 1,decision logged
+25,Open system for users,S/4,Basis,Day 2,
